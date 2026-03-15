@@ -10,8 +10,8 @@
         seguindo boas práticas de <b>Clean Architecture</b>.
       </p>
       <p>
-        Experiência com bancos de dados relacionais, ORM com <b>SQLAlchemy</b>
-        e interfaces modernas com <b>Tailwind CSS</b>.
+        Experiência com bancos de dados relacionais, ORM com <b>SQLAlchemy</b>,
+        orquestração de pipelines ETL e interfaces modernas com <b>Tailwind CSS</b>.
       </p>
     </td>
     <td width="45%">
@@ -22,7 +22,7 @@
 
 ---
 
-### Stacks
+### Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,docker,html,css,tailwind,js,ts,git,github,vscode" />
@@ -41,14 +41,6 @@
 </p>
 
 ---
-
-### Projetos e Experiências
-
-- **Automações com Python** — scripts para eliminação de tarefas repetitivas e ganho de produtividade
-- **APIs REST** — endpoints estruturados com FastAPI seguindo boas práticas de design e documentação
-- **Pipelines ETL** — extração, transformação e carga de dados com Pandas e NumPy
-- **Interfaces modernas** — componentes responsivos desenvolvidos com Tailwind CSS
-- **Integração com banco de dados** — modelagem e queries com SQLAlchemy, PostgreSQL e MySQL
 
 ---
 
