@@ -1,16 +1,65 @@
-## Hi there 👋
+#Ola sou Joao marcio #
 
-<!--
-**jmello04/jmello04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia e criação de sistemas web.
+🚀 Focado em desenvolvimento Backend e APIs, mas também com experiência em Frontend moderno.
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Trabalhando com desenvolvimento web e APIs
+
+🌱 Aprendendo mais sobre arquitetura de software e boas práticas
+
+🐧 Usuário de Linux
+
+🎯 Objetivo: evoluir como Desenvolvedor Backend / Full Stack
+
+🛠️ Tecnologias
+Linguagens
+
+Python
+
+JavaScript
+
+TypeScript
+
+Frontend
+
+HTML
+
+CSS
+
+Tailwind CSS
+
+Banco de Dados
+
+MySQL
+
+PostgreSQL
+
+Ferramentas
+
+Git
+
+GitHub
+
+Linux
+
+📊 Estatísticas do GitHub
+
+
+
+
+
+
+
+🚀 Projetos
+
+📌 Desenvolvimento de APIs com Python
+📌 Sistemas web com integração a banco de dados
+📌 Projetos educacionais e experimentos com backend
+
+🌎 Contato
+
+GitHub: https://github.com/SEUUSUARIO
+
+⭐ Obrigado por visitar meu perfil!
