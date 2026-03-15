@@ -22,7 +22,7 @@
 
 ---
 
-### Stack
+### Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,docker,html,css,tailwind,js,ts,git,github,vscode" />
