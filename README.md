@@ -5,37 +5,44 @@
     <td width="55%">
       <h3>Estudante de Sistemas de Informação</h3>
       <p>
-        Acadêmico de Sistemas de Informação focado no desenvolvimento de sistemas robustos e análise de dados. 
-        Minha atuação é centrada no ecossistema Back-End, utilizando Python para processamento de informações e automação, 
-        orientado por princípios de Clean Architecture e desenvolvimento de APIs testáveis.
+        Acadêmico de Sistemas de Informação focado em engenharia de dados e desenvolvimento back-end robusto. 
+        Especializado na criação de automações e análise de dados utilizando <b>Python</b>, seguindo padrões de 
+        Clean Architecture para garantir sistemas escaláveis e seguros.
       </p>
       <p>
-        Experiência na estruturação de bancos de dados relacionais (PostgreSQL e MySQL) e na criação de interfaces modernas e responsivas utilizando Tailwind CSS.
+        Experiência prática na construção de APIs e interfaces modernas, unindo a performance do 
+        <b>PostgreSQL</b> com o design responsivo do <b>Tailwind CSS</b>.
       </p>
     </td>
     <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=joaomarcio&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
-### 🛠️ Tech Stack
+### Stack Utilizada
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,html,css,tailwind,js,ts,windows,git" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,html,css,tailwind,js,ts,windows,git,github,vscode" />
 </p>
 
 ---
 
-### Linguagens Mais Utilizadas
+### Linguagens e Tecnologias de Foco
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcio&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 ### Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/joaomarcio-dev/
-- **E-mail:** estagjoao@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/joaomarcio-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:estagjoao@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
