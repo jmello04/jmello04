@@ -5,13 +5,11 @@
     <td width="55%">
       <h3>Estudante de Sistemas de Informação</h3>
       <p>
-        Acadêmico de Sistemas de Informação focado em engenharia de dados e desenvolvimento back-end robusto. 
-        Especializado na criação de automações e análise de dados utilizando <b>Python</b>, seguindo padrões de 
-        Clean Architecture para garantir sistemas escaláveis e seguros.
+        Focado em <b>Back-End</b> e <b>Engenharia de Dados</b>. 
+        Desenvolvo automações e APIs com <b>Python</b>, seguindo boas práticas de Clean Architecture.
       </p>
       <p>
-        Experiência prática na construção de APIs e interfaces modernas, unindo a performance do 
-        <b>PostgreSQL</b> com o design responsivo do <b>Tailwind CSS</b>.
+        Experiência com bancos de dados relacionais e interfaces modernas com <b>Tailwind CSS</b>.
       </p>
     </td>
     <td width="45%">
@@ -28,7 +26,7 @@
 
 ---
 
-### Linguagens e Tecnologias de Foco
+### Linguagens e Foco
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcio-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -40,9 +38,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joaomarcio-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:estagjoao@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
