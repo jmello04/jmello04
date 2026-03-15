@@ -15,12 +15,12 @@
       </p>
     </td>
     <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoMarcio-Dev&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
-### Stack Utilizada
+### 🛠️ Stack Utilizada
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,postgres,mysql,html,css,tailwind,js,ts,windows,git,github,vscode" />
@@ -31,7 +31,7 @@
 ### Linguagens e Tecnologias de Foco
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcio-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
